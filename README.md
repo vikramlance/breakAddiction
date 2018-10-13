@@ -1,15 +1,14 @@
 # breakAddition
 Simple web app  to help addicts to overcome theirs addictions using MERN stack
 
-Frameworks:
+- Frameworks:
 MERN stack
 
-
-UI/FE:
+- UI/FE:
 React
 
-Backend:
+- Backend:
 Node/Express
 
-Database:
+- Database:
 Mongo
