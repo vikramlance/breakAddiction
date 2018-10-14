@@ -12,3 +12,12 @@ Node/Express
 
 - Database:
 Mongo
+
+
+Week 1:
+- Set up Environments - DONE
+- Stable State Deployments
+- React (Hello World)
+- Mongo (Table with User Records)
+- Node/Exp: Retrieve records 
+- System Design + Architecture
